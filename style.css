@@ -1,0 +1,59 @@
+.shillah{
+    margin-right: 30px;
+}
+.start{
+    display:grid;
+    grid-template-columns:auto auto auto auto;
+
+    background-color: rgb(56, 115, 224);
+    padding-top:10px ;
+    margin-top: 10px;
+    color:white;
+    
+}
+
+.email{
+    margin-left: 100px;
+    padding-left: 100px;
+    margin-top: 10px;
+}
+.pass{
+    margin-left: 10px;
+    padding: 10px;
+}
+.login{
+    margin-left: 0px;
+    margin-right: 540px;
+    margin-top: 28px;
+}
+.fm{
+    font-size: 30px;
+}
+#main{
+    
+    margin-left:400px ;
+
+}
+h1{
+    font-size: 50px;
+}
+#p{
+    margin-left: 01px;
+   
+}
+.date{
+    display:grid;
+    grid-template-columns:auto auto auto auto;
+  
+}
+::placeholder{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+::placeholder:hover::after{
+    background-color: rgb(74, 74, 218);
+}
+.last{
+    margin-right: 250px;
+}
